@@ -25,3 +25,7 @@ YAHOO FINANCE API
 #Technology Used
 
 SQLite
+
+#Steps to get application up and running
+
+First download the source code ,build gradle in any android sdk(studio/eclipse) and then run the application on your device
