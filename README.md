@@ -26,6 +26,8 @@ YAHOO FINANCE API
 
 SQLite
 
+Android Framework-Notifications and alarams
+
 #Steps to get application up and running
 
 First download the source code ,build gradle in any android sdk(studio/eclipse) and then run the application on your device
